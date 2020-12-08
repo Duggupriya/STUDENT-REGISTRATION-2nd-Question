@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1607402200 source:d:\manipal study\ada\student reg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<stdint.h>
+	"slist.h"
+
+1607402217 d:\manipal study\ada\student reg\slist.h
+	<stdint.h>
+	"appconst.h"
+
+1607396151 d:\manipal study\ada\student reg\appconst.h
+
+1607402231 source:d:\manipal study\ada\student reg\slist.c
+	"slist.h"
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+
